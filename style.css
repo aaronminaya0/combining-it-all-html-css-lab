@@ -38,3 +38,17 @@ nav ul li {
 img {
     max-width: 50%;
 }
+
+@media only screen and (max-width: 768px) {
+
+    nav ul {
+        float: left;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    lable {
+        
+    }
+
+}
